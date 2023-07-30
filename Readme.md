@@ -3,6 +3,7 @@ cd into Location file
 docker-compose build
 docker-compose up -d db
 docker-compose up web
+docker exec web_container_name python manage.py migrate
 Navigate to localhost:8085/places This page has leaflet map with search functionality 
 For Swagger UI localhost:8085/swagger You can find all the relevant endpoints here 
 Run Pytest command to run tests
