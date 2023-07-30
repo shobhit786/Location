@@ -20,6 +20,5 @@ Navigate to localhost:8085/places This page has leaflet map with search function
 For Swagger UI localhost:8085/swagger You can find all the relevant endpoints here 
 Run Pytest command to run tests
 
-
-Please Find Screenshots for Application in ScreenShots for Application Folder
+Find Screenshots for Application in ScreenShots for Application Folder
 
