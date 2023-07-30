@@ -4,7 +4,7 @@ docker-compose up -d db
 docker-compose up web
 Navigate to localhost:8085/places This page has leaflet map with search functionality 
 For Swagger UI localhost:8085/swagger You can find all the relevant endpoints here 
-Run Pytest command to rune tests
+Run Pytest command to run tests
 
 Without Docker 
 Download postgredb and make database with config present in settings.py 
@@ -18,7 +18,7 @@ python manage.py migrate
 python manage.py runserver
 Navigate to localhost:8085/places This page has leaflet map with search functionality 
 For Swagger UI localhost:8085/swagger You can find all the relevant endpoints here 
-Run Pytest command to rune tests
+Run Pytest command to run tests
 
 
 Please Find Screenshots for Application in ScreenShots for Application Folder
