@@ -1,4 +1,5 @@
-With docker cd into Location file 
+With docker 
+cd into Location file 
 docker-compose build
 docker-compose up -d db
 docker-compose up web
